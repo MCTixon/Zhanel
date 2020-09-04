@@ -596,4 +596,9 @@ body {
   .swiper-button-prev {
     display: none;
   }
+  .text-me {
+    font-size: 16px;
+    padding: 15px 25px;
+    border-radius: 30px;
+  }
 }
